@@ -1,2 +1,5 @@
 Muhammad Ibrar
 23-st-047
+
+cout << "add two number" << a+b;
+
