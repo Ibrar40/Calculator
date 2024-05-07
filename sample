@@ -7,3 +7,8 @@ cout <<endl;
 
 cout << "asub two number" << a-b;
 cout <<endl;
+
+
+
+cout << "multiplication two number" << a*b;
+cout <<endl;
