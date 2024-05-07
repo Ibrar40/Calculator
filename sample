@@ -13,5 +13,5 @@ cout <<endl;
 cout << "multiplication two number" << a*b;
 cout <<endl;
 
-cout << "division two number" << a*b;
+cout << "division two number" << a/b;
 cout <<endl;
